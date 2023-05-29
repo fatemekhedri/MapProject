@@ -1,0 +1,4 @@
+{
+  "en": { "name": "en", "direction": "ltr", "fontFamily": "Roboto" },
+  "fa": { "name": "fa", "direction": "rtl", "fontFamily": "IRANSansWeb" }
+}

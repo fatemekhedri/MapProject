@@ -1,0 +1,29 @@
+.mapboxgl-map {
+  width: 95% !important;
+  height: 98.7vh !important;
+  box-shadow: 0px 28px 28px rgba(76, 87, 125, 0.02);
+  /* margin: 30px; */
+  /* margin-top: 30px; */
+  /* margin-bottom: 45px; */
+}
+.leaflet-container {
+  width: 100% !important;
+  height: 98.7vh !important;
+  box-shadow: 0px 28px 28px rgba(76, 87, 125, 0.02);
+  /* margin: 30px; */
+  /* margin-top: 30px; */
+  /* margin-bottom: 45px; */
+}
+.mapboxgl-canvas {
+  /* border-radius: 1.25rem; */
+}
+.mapboxgl-ctrl-bottom-right {
+  display: none;
+}
+@font-face {
+  font-family: "IRANSansWeb";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../src/assets/fonts/IRANSansWeb.woff2");
+}
