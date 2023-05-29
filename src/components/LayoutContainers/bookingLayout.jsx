@@ -162,6 +162,7 @@ const BookingLayout = () => {
             //   type: "Update_Leaflet",
             //   payload: L,
             // });
+            
             dispatch({
               type: "Update_Map",
               payload: myMap,
